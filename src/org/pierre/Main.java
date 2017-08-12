@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Main.main ciao ciao");
         System.out.println("adding this");
         System.out.println("adding that");
+        System.out.println("Main.main I will stash this");
     }
 }
